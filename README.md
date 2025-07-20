@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Karan+this+side!!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from India IN</h3>
 
 <br/>
 
 <div align="center">
 
   <h2>🚀 What I'm Working On</h2>  
-  <p><strong>A full-stack marketplace</strong> — building the backend, crafting the UI, and everything in between.</p>  
+  <p><strong>A Python Programmer</strong> — building the backend, crafting the UI, and everything in between.</p>  
 
   <br/>
 
