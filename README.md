@@ -10,8 +10,8 @@
 
 <div align="center">
 
-  <h2>🚀 What I'm Working On</h2>  
-  <p><strong>A Python Programmer</strong> — building the backend, crafting the UI, and everything in between.</p>  
+  <h2>🚀 What I do</h2>  
+  <p><strong>A Python Programmer</strong>- build AI models, play with LLMs and create stunning UI in free time</p>  
 
   <br/>
 
