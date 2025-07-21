@@ -3,6 +3,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=65&center=true&vCenter=true&width=500&height=70&duration=4000&color=A700D1&lines=Hi+There!+👋;+Karan+this+side!!;" />
 </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=65&center=true&vCenter=true&width=600&height=70&duration=7000&color=A700D1&lines=Python+Programmer;+Data+Analytics;+UI/UX+Designer" />
+</h1>
 
 <h3 align="center">A passionate software developer from India IN</h3>
 
