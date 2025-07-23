@@ -41,7 +41,7 @@
   <a href="https://linkedin.com/in/karanjajoria965" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://karanjajoria.github.io/Static-Portfolio-HTML-CSS/index.html" target="_blank">
+  <a href="https://v0-background-paths-yh.vercel.app/#home" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
