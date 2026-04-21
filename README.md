@@ -44,6 +44,9 @@
   <a href="https://v0-portfolio-website-design-theta-blue.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://ieeexplore.ieee.org/document/11386262" target="_blank">
+  <img src="https://img.shields.io/badge/IEEE-Research%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+</a>
 </div>
 
 <hr/>
