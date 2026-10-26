@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=220&section=header&text=Karan%20Jajoria&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Python%20Programmer%20%C2%B7%20UI%2FUX%20Designer&descSize=22&descAlignY=60" alt="Karan Jajoria header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=220&section=header&text=Karan%20Jajoria&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20UI%2FUX%20Designer&descSize=22&descAlignY=60" alt="Karan Jajoria header" />
 
 <h3>A passionate software developer from India 🇮🇳</h3>
 
@@ -35,7 +35,7 @@
 
 <h2 align="center">🛠️ Tech & Creative Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,flask,mysql,figma,blender&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=windows,vscode,python,tensorflow,opencv,html,css,fastapi,postman,gcp,vercel,flask,mysql,figma,blender&perline=10" alt="tech stack" />
 </p>
 
 <br/>
