@@ -18,15 +18,15 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 What I do</h3>
-      <p>I'm a <strong>Python programmer</strong> who builds AI models, plays with LLMs and crafts stunning UI in my free time.</p>
+      <p>I'm a <strong>Machine Learning Engineer</strong> who builds AI models, plays with computer vision pipelines and crafts stunning UI in my free time.</p>
       <h3>📚 Exploring</h3>
-      <p>Deep Learning · React · Tailwind · MongoDB</p>
+      <p>Deep Learning · FastAPI · CNN · SQL</p>
     </td>
     <td width="50%" valign="top">
       <h3>💬 Let's talk tech</h3>
       <p>Python · AI algorithms · design concepts, or anything you're curious about. Open an issue <a href="https://github.com/karanjajoria/karanjajoria/issues">here</a>.</p>
       <h3>🧠 Fun fact</h3>
-      <p>Driven by logic, inspired by creativity. I balance the precision of programming with a passion for design.</p>
+      <p>Generally interested in complex problems & logics, inspired by creativity. I balance the precision of programming with a passion for design.</p>
     </td>
   </tr>
 </table>
